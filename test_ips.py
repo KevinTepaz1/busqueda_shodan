@@ -6,7 +6,8 @@ from collections import Counter
 numero_carnet = "1990-21-8618"
 nombre_completo = "Kevin Adolfo Tepaz Buc"
 curso = "Ingenieria en Sistemas"
-seccion = "9no Semestre"
+seccion = "decimo Semestre"
+fecha = "septiembre 2025"
 
 # Resultados simulados (como si vinieran de Shodan)
 results = {
