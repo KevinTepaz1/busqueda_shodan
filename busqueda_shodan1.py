@@ -11,7 +11,8 @@ from collections import Counter
 numero_carnet = "19-90-21-8618"
 nombre_completo = "Kevin Adolfo Tepaz Buc"
 curso = "Ingeniería en Sistemas"
-seccion = "9no Semestre"
+seccion = "decimo Semestre"
+fecha = "septiembre 2025"
 
 # API Key de Shodan
 SHODAN_API_KEY = "GWD3u6Yds1HfhOfGrsM37OEuA3YEIGyu"
