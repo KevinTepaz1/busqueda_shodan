@@ -1,16 +1,20 @@
-# shodan_guatemala.py
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+
 
 import shodan
 from collections import Counter
 
 # Datos del estudiante
-numero_carnet = "1234567"
+numero_carnet = "19-90-21-8618"
 nombre_completo = "Kevin Adolfo Tepaz Buc"
 curso = "Ingeniería en Sistemas"
 seccion = "9no Semestre"
 
 # API Key de Shodan
-SHODAN_API_KEY = "Ou016AXwXByhLrkiUMi42uCKj7Q5EJqi"
+SHODAN_API_KEY = "GWD3u6Yds1HfhOfGrsM37OEuA3YEIGyu"
 
 # Inicializar cliente
 api = shodan.Shodan(SHODAN_API_KEY)
